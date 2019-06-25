@@ -6,30 +6,37 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:paddingStart="@dimen/layout_padding"
-        android:paddingEnd="@dimen/layout_padding"
         tools:context=".MainActivity">
 
-    <TextView
-            android:text="@string/name"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="244dp"
-            tools:layout_editor_absoluteX="151dp" android:id="@+id/name_text"
-            android:textAlignment="center"
-            style="@style/NameStyle"/>
-    <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" app:srcCompat="@android:drawable/btn_star_big_on"
-            android:id="@+id/star_image" android:contentDescription="Yellow star"
-            android:layout_marginTop="@dimen/layout_margin"/>
+
     <ScrollView
             android:id="@+id/bio_scroll"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-        <TextView
-                android:text="@string/bio"
+        <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" android:id="@+id/bio_text" style="@style/NameStyle"
-                android:lineSpacingMultiplier="1.2"/>
+                android:layout_height="match_parent"
+                android:paddingStart="@dimen/layout_padding"
+                android:paddingEnd="@dimen/layout_padding"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" tools:layout_editor_absoluteY="244dp"
+                    tools:layout_editor_absoluteX="151dp" android:id="@+id/name_text"
+                    android:textAlignment="center"
+                    style="@style/NameStyle"/>
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" app:srcCompat="@android:drawable/btn_star_big_on"
+                    android:id="@+id/star_image" android:contentDescription="Yellow star"
+                    android:layout_marginTop="@dimen/layout_margin"/>
+            <TextView
+                    android:text="@string/bio"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/bio_text" style="@style/NameStyle"
+                    android:lineSpacingMultiplier="1.2"/>
+        </LinearLayout>
+
     </ScrollView>
 </LinearLayout>
