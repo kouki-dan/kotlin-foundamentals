@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d8c7085f709023ba9a6b58291f897c31/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/133bf01e07fd8f9277176b9023c80d41/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/kouki/.gradle/caches/transforms-2/files-2.1/baef0d296b2ab0f4f06f8f59280bc489/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5a8a4a5dadb81ccb29602cbddc19e926/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3893f786d01a0a9653b08daf9a18e3ba/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ef713721846bc5e226c9fd0e8b29fe0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3d96027c616e9f7f0a93c7092183ee0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/kouki/.gradle/caches/transforms-2/files-2.1/02c7e61a59d24a571c68c2654316c61a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/2ed41595474f969bcc940727328d18b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1b9b1822706eb789c8a4fcddffa74dca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5ad3451611625b1a2b4721de4423c183/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3a9f7b123770d8e95dcc175b0928956b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/a4d29aa611bbe4ca4bb434284aec12ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/bb9b1cc7625f4d9537b6ab3d8bd43e5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b6d3bc2a45b9a1658a5cbd7025350af6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/8092fefc4655a4952f97e8b7ca30bc45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f041918b374fdd6bad78f3d2f595958d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fbc02f46ea8bc76f234d3094ecb0cdbd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/714471227a6bfb3701b5a3bfbc316b3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b37bdc6fe988223feb5edefad54ce829/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/88228efc7b61bcf135f7aa4b4ee84f38/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/548b4e775834874fb0085eaf124f708a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d342418856354e602fa9666096886f92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/6fd5637715e4de25adc20316c4cc755e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/92b6c3b3fc003af51abee21a4fb95ccf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/7207157f6339a962af4f2235fec9d184/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3dceff8c76abc6b5291b6b80d47a71d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fc355526b912511c1babe04378443681/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f33d2bff95585348f5246a7c78df9d0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1c06c19468243437e663ef3305908c72/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/kouki/.gradle/caches/transforms-2/files-2.1/baef0d296b2ab0f4f06f8f59280bc489/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/kouki/.gradle/caches/transforms-2/files-2.1/baef0d296b2ab0f4f06f8f59280bc489/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3893f786d01a0a9653b08daf9a18e3ba/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3893f786d01a0a9653b08daf9a18e3ba/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/88228efc7b61bcf135f7aa4b4ee84f38/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/88228efc7b61bcf135f7aa4b4ee84f38/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-61
+	android:icon
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-50
+	android:allowBackup
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-43
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d8c7085f709023ba9a6b58291f897c31/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d8c7085f709023ba9a6b58291f897c31/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/133bf01e07fd8f9277176b9023c80d41/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/133bf01e07fd8f9277176b9023c80d41/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/kouki/.gradle/caches/transforms-2/files-2.1/baef0d296b2ab0f4f06f8f59280bc489/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/kouki/.gradle/caches/transforms-2/files-2.1/baef0d296b2ab0f4f06f8f59280bc489/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5a8a4a5dadb81ccb29602cbddc19e926/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5a8a4a5dadb81ccb29602cbddc19e926/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3893f786d01a0a9653b08daf9a18e3ba/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3893f786d01a0a9653b08daf9a18e3ba/AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ef713721846bc5e226c9fd0e8b29fe0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ef713721846bc5e226c9fd0e8b29fe0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3d96027c616e9f7f0a93c7092183ee0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3d96027c616e9f7f0a93c7092183ee0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/kouki/.gradle/caches/transforms-2/files-2.1/02c7e61a59d24a571c68c2654316c61a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/kouki/.gradle/caches/transforms-2/files-2.1/02c7e61a59d24a571c68c2654316c61a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/2ed41595474f969bcc940727328d18b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/2ed41595474f969bcc940727328d18b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1b9b1822706eb789c8a4fcddffa74dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1b9b1822706eb789c8a4fcddffa74dca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5ad3451611625b1a2b4721de4423c183/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/5ad3451611625b1a2b4721de4423c183/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3a9f7b123770d8e95dcc175b0928956b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3a9f7b123770d8e95dcc175b0928956b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/a4d29aa611bbe4ca4bb434284aec12ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/a4d29aa611bbe4ca4bb434284aec12ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/bb9b1cc7625f4d9537b6ab3d8bd43e5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/bb9b1cc7625f4d9537b6ab3d8bd43e5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b6d3bc2a45b9a1658a5cbd7025350af6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b6d3bc2a45b9a1658a5cbd7025350af6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/8092fefc4655a4952f97e8b7ca30bc45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/8092fefc4655a4952f97e8b7ca30bc45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f041918b374fdd6bad78f3d2f595958d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f041918b374fdd6bad78f3d2f595958d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fbc02f46ea8bc76f234d3094ecb0cdbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fbc02f46ea8bc76f234d3094ecb0cdbd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/714471227a6bfb3701b5a3bfbc316b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/714471227a6bfb3701b5a3bfbc316b3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/ca2bb9c6368f8721f716f8c4048221b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b37bdc6fe988223feb5edefad54ce829/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/b37bdc6fe988223feb5edefad54ce829/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/88228efc7b61bcf135f7aa4b4ee84f38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/88228efc7b61bcf135f7aa4b4ee84f38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/548b4e775834874fb0085eaf124f708a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/548b4e775834874fb0085eaf124f708a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d342418856354e602fa9666096886f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/d342418856354e602fa9666096886f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/6fd5637715e4de25adc20316c4cc755e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/6fd5637715e4de25adc20316c4cc755e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/92b6c3b3fc003af51abee21a4fb95ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/92b6c3b3fc003af51abee21a4fb95ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/7207157f6339a962af4f2235fec9d184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/7207157f6339a962af4f2235fec9d184/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3dceff8c76abc6b5291b6b80d47a71d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/3dceff8c76abc6b5291b6b80d47a71d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fc355526b912511c1babe04378443681/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/fc355526b912511c1babe04378443681/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f33d2bff95585348f5246a7c78df9d0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/f33d2bff95585348f5246a7c78df9d0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1c06c19468243437e663ef3305908c72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kouki/.gradle/caches/transforms-2/files-2.1/1c06c19468243437e663ef3305908c72/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kouki/gits/kotolin-foundamentals/DessertClicker-Starter/app/src/main/AndroidManifest.xml
